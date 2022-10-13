@@ -1,4 +1,4 @@
-# kinensai
+# My test project for Nuxt.js
 
 ## Build Setup
 
